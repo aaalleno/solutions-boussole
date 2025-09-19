@@ -9,7 +9,8 @@ baseurl: /solutions-boussole
 theme: minima
 
 # Hide header navigation
-header_pages: []
+header_pages:
+ - index.md
 
 aux_links:
   La Boussole: https://boussole.onrender.com
