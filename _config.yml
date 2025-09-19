@@ -1,7 +1,12 @@
 title: Base de solutions la Boussole
 description: Liste des solutions intégrées à la Boussole
 
+# GitHub Pages compatible configuration
 url: https://aaalleno.github.io
+baseurl: /solutions-boussole
+
+# Use minima theme
+theme: minima
 
 aux_links:
   La Boussole: https://boussole.onrender.com

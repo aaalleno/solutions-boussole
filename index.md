@@ -3,7 +3,7 @@ layout: default
 title: Index
 ---
 # Index des solutions
-
+ 
 <ul>
 {% for page in site.pages %}
   {% if page.path contains 'content/' %}
