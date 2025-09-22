@@ -1,6 +1,6 @@
 # **Éclairage dynamique dans les tunnels**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Éclairage dynamique dans les tunnels.
 

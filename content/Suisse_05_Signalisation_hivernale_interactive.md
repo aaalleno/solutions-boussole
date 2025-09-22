@@ -1,6 +1,6 @@
 # **Signalisation hivernale interactive**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Signalisation hivernale interactive.
 

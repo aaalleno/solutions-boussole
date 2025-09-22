@@ -1,6 +1,6 @@
 # **Corridors vélo en agglomération**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Corridors vélo en agglomération.
 

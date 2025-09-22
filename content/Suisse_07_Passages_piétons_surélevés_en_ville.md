@@ -1,6 +1,6 @@
 # **Passages piétons surélevés en ville**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Passages piétons surélevés en ville.
 

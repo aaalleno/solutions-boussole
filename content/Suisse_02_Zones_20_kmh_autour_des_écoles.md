@@ -1,6 +1,6 @@
 # **Zones 20 km/h autour des écoles**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Zones 20 km/h autour des écoles.
 

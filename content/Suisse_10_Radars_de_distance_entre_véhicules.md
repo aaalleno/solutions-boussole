@@ -1,6 +1,6 @@
 # **Radars de distance entre véhicules**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Radars de distance entre véhicules.
 

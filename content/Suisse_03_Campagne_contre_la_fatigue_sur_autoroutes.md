@@ -1,6 +1,6 @@
 # **Campagne contre la fatigue sur autoroutes**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Campagne contre la fatigue sur autoroutes.
 

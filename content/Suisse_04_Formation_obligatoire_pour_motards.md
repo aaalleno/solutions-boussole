@@ -1,6 +1,6 @@
 # **Formation obligatoire pour motards**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Formation obligatoire pour motards.
 

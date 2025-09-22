@@ -1,6 +1,6 @@
 # **Contrôles d’alcoolémie aux sorties de stations de ski**
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Contrôles d’alcoolémie aux sorties de stations de ski.
 

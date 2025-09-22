@@ -1,6 +1,6 @@
 # **Sécurisation des routes alpines par des glissières renforcées** 
 
-## **A. PRESENTATION DE LA MESURE ** 
+## **A. PRESENTATION DE LA MESURE** 
 
 * **Nom de la mesure** : Sécurisation des routes alpines par des glissières renforcées.
 
